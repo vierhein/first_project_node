@@ -25,7 +25,7 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
-    "mongoose": "4.13.7",
+    "mongoose": "5.7.5",
     "static-asset": "^0.6.0"
   }
 }
